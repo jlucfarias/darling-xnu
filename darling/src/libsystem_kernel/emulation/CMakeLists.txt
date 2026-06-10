@@ -314,6 +314,7 @@ set(xnu_syscall_bsd_sources
 	src/xnu_syscall/bsd/impl/xattr/fgetxattr.c
 	src/xnu_syscall/bsd/impl/xattr/flistxattr.c
 	src/xnu_syscall/bsd/impl/xattr/fremovexattr.c
+	src/xnu_syscall/bsd/impl/xattr/fsctl.c
 	src/xnu_syscall/bsd/impl/xattr/fsetattrlist.c
 	src/xnu_syscall/bsd/impl/xattr/fsetxattr.c
 	src/xnu_syscall/bsd/impl/xattr/getattrlist.c
